@@ -1,0 +1,59 @@
+#header {
+    color:black;
+    text-align: center;
+    text-decoration-line: underline;    
+}
+
+.Geo {
+color: brown;
+font-size: large;
+margin-left: 5cm;
+}
+
+.primaclasa {
+    color: darkred;
+    text-align: unset;
+}
+
+a:hover {
+    color: greenyellow;
+}
+
+.tabel {
+    background-color: thistle;
+    width: 20cm;
+    margin-left: 10cm;
+}
+
+ol li:first-child {
+    text-decoration: underline;
+    margin-left: 3cm;
+}
+
+ol li:nth-of-type(2) {
+    color: blueviolet;
+    margin-left: 3em;
+}
+
+ol li:nth-of-type(3) {
+    margin-left: 2em;
+}
+
+ol li:nth-of-type(4) {
+    color: burlywood;
+    margin-left: 3em;
+}
+
+ol li:nth-of-type(5) {
+    color: blue;
+  margin-left: 2em;
+}
+
+ol li:nth-of-type(6) {
+color:green;
+margin-left: 3em;
+}
+
+p::first-letter {
+    color: darkblue;
+}
